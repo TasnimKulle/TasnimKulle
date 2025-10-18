@@ -37,16 +37,6 @@ My focus is on creating seamless user experiences and visually appealing designs
 A digital tool designed to create, distribute, and analyze surveys or questionnaires.
 **Built with:** HTML, CSS, JavaScript
 
-### 🔹 [React-Activity](https://github.com/TasnimKulle/React-Activity)
-
-A series of React-based exercises and practice projects.
-**Built with:** React, JavaScript
-
-### 🔹 [TailwindCssExercises](https://github.com/TasnimKulle/tailwindCssExercises)
-
-UI exercises and layout designs using Tailwind CSS.
-**Built with:** HTML, Tailwind CSS
-
 ---
 
 ## 📫 Connect With Me
