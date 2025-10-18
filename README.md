@@ -11,7 +11,6 @@ My focus is on creating seamless user experiences and visually appealing designs
 ## 🚀 About Me
 
 * 🎨 Skilled in **HTML, CSS, JavaScript, React, and Tailwind CSS**
-* 🤝 Contributed to a team project: [Designer Project](https://github.com/kaseid/designer)
 * 🌱 Currently learning advanced **React.js** concepts and component-based architecture
 * 💡 Passionate about building real-world, accessible, and user-friendly web solutions
 * 📍 Based in Somalia
@@ -31,6 +30,12 @@ My focus is on creating seamless user experiences and visually appealing designs
 ---
 
 ## 🌟 Featured Projects
+
+### 🔹 [Designer Project](https://github.com/kaseid/designer)
+
+A collaborative and fully responsive web design project built by a creative team.
+Role: Front-End Contributor
+Tech Used: HTML, CSS
 
 ### 🔹 [Survey-Application](https://github.com/TasnimKulle/Survey-Application)
 
