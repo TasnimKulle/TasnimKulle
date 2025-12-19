@@ -1,54 +1,37 @@
 # 👋 Hi, I'm Tasnim Kulle
 
-### 💻 Front-End Developer | Passionate About Creative Web Interfaces
+### 💻 Front-End Developer | React & Tailwind CSS Enthusiast
 
-Welcome to my GitHub profile!
-I’m a **Front-End Developer** who loves building clean, interactive, and responsive web applications using modern technologies.
-My focus is on creating seamless user experiences and visually appealing designs.
-
----
-
-## 🚀 About Me
-
-* 🎨 Skilled in **HTML, CSS, JavaScript, React, and Tailwind CSS**
-* 🌱 Currently learning advanced **React.js** concepts and component-based architecture
-* 💡 Passionate about building real-world, accessible, and user-friendly web solutions
-* 📍 Based in Somalia
-
----
-
-## 🧰 Tech Stack
-
-| Category            | Tools                                           |
-| ------------------- | ----------------------------------------------- |
-| **Languages**       | HTML, CSS, JavaScript                           |
-| **Frameworks**      | React, Tailwind CSS                             |
-| **Version Control** | Git & GitHub                                    |
-| **Design Tools**    | Figma, Canva                                    |
-| **Other Skills**    | Responsive Design, UI Animation, UX Improvement |
+I'm a **Front-End Developer** passionate about building clean, interactive, and responsive web applications. I focus on **seamless user experiences** and **modern UI designs**.
 
 ---
 
 ## 🌟 Featured Projects
 
-### 🔹 [Designer Project](https://github.com/kaseid/designer)
+| Project | Description | Tech | Live Demo |
+|---------|-------------|------|-----------|
+| **Recipe Collection** | Browse & filter recipes by category with emoji visuals and ingredients. | React, Tailwind CSS | [View](https://recipe-collection-phi.vercel.app/) |
+| **Student Dashboard** | Track courses, assignments, and announcements with a professional dashboard layout. | React, Tailwind CSS | [View](https://student-dashboard-with-react.vercel.app/) |
+| **Challenge25 Recipe Book** | Interactive recipe book with dynamic filtering and responsive UI. | React, Tailwind CSS | [View](https://challenge25-recipe-book.vercel.app/) |
+| **Designer Project** | Collaborative, fully responsive web design project. | HTML, CSS | [GitHub](https://github.com/kaseid/designer) |
+| **Survey Application** | Create, distribute, and analyze surveys with a simple interface. | HTML, CSS, JavaScript | [GitHub](https://github.com/TasnimKulle/Survey-Application) |
 
-A collaborative and fully responsive web design project built by a creative team.
-Role: Front-End Contributor
-Tech Used: HTML, CSS
+---
 
-### 🔹 [Survey-Application](https://github.com/TasnimKulle/Survey-Application)
+## 🛠️ Skills & Tools
 
-A digital tool designed to create, distribute, and analyze surveys or questionnaires.
-**Built with:** HTML, CSS, JavaScript
+- **Languages:** HTML, CSS, JavaScript  
+- **Frameworks:** React, Tailwind CSS  
+- **Version Control:** Git & GitHub  
+- **Design:** Figma, Canva  
+- **Other:** Responsive Design, UI Animation, UX Improvement  
 
 ---
 
 ## 📫 Connect With Me
 
-* 📧 **Email:** [tasniim.tak@gmail.com](mailto:tasniim.tak@gmail.com)
-* 🖥️ **GitHub:** [@TasnimKulle](https://github.com/TasnimKulle)
-* 💼 **LinkedIn:** *(Tasnim Kulle)*
+- **GitHub:** [@TasnimKulle](https://github.com/TasnimKulle)  
+- **LinkedIn:** [Tasnim Kulle](https://www.linkedin.com/in/tasnim-kulle-172681200)  
 
 ---
 
